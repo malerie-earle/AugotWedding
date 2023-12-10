@@ -1,0 +1,298 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-weight: 100;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-image: url(Images/blooming-red-roses-box-background_53876-160155.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+
+.container {
+    width: 1000px;
+    height: 1000px;
+    background-color:white;
+    position: relative;
+    margin-top: 24px;
+    margin-bottom: 40px;
+}
+
+header {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(48, 186, 38);
+    background-image: url(Images/clouds.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+    position: relative;
+    padding: 5px;
+    border-bottom: 2px solid transparent;
+    text-align: left;
+    word-spacing: 30%;
+    font-weight: bolder;
+    margin-bottom: 25px;
+    text-decoration: none;
+}
+
+header a:link {
+    text-decoration: none;
+}
+
+header a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+header a:hover {
+    text-decoration: none;
+}
+
+.whitetext {
+    color: white;
+}
+
+h4 {
+    font-size: 16pt;
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    border: 2px solid transparent;
+    padding: 10px;
+    width: 1000px;
+    height: 410px;
+    position: relative;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
+
+.navbox {
+    width: 115px;
+    height: 120px;
+    margin: 3px;
+    border: 2px solid transparent;
+    float: left;
+}
+
+.navboxred {
+    width: 115px;
+    height: 120px;
+    margin: 3px;
+    border: 2px solid transparent;
+    float: left;
+    background-color: rgb(205, 16, 16);
+    color: white;
+    font-size: 18pt;
+    font-weight: 700;
+    border: none;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+    line-height: 80%;
+    padding: 4px;
+    }
+
+#third:hover {
+    background-image: url(Images/bouquet.jpeg);
+    filter: brightness(1.2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#twosecond:hover {
+    background-image: url(Images/cheers.jpeg);
+    filter: brightness(1.2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#twofifth:hover {
+    background-image: url(Images/rings.jpeg);
+    filter: brightness(1.2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#twoseventh:hover {
+    background-image: url(Images/signing.jpeg);
+    filter: brightness(1.2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#threefirst:hover {
+    background-image: url(Images/heartpillow.jpeg);
+    filter: brightness(1.2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#threefourth:hover {
+    background-image: url(Images/style.jpeg);
+    filter: brightness(1.2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#threefifth:hover {
+    background-image: url(Images/back.jpeg);
+    filter: brightness(1.2);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.linkbox:hover {
+    color: black;
+    font-weight: 1000;
+    align-items: center;
+    letter-spacing: 2px;
+}
+
+.greenbar {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(48, 186, 38);
+    position: relative;
+    padding: 2px;
+    float: right;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.subsection {
+    background-image: url(Images/slidebackground.png);
+    filter: brightness(1.17);
+    background-repeat: repeat;
+    background-color: rgb(232, 66, 66);
+    background-blend-mode:luminosity;
+    width: 1000px;
+    height: 420px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    border: 2px solid transparent;
+    margin-right: 6px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 12pt;
+    color:black;
+}
+
+h3 {
+    font-size: 12pt;
+    color: black;
+    letter-spacing: 80%;
+    text-align: left;
+    font-weight: 700;
+    
+}
+
+#sidebar {
+    width: 70px;
+    height: 15px;
+    filter: brightness(1.3);
+    margin-left: 5px;
+}
+
+#sidebar2 {
+    width: 90px;
+    height: 15px;
+    filter: brightness(1.3);
+}
+
+.subBox {
+    width: 250px;
+    height: 180px;
+    float: left;
+    border: 2px solid transparent;
+    text-align: left;
+    padding: 10px;
+    margin-bottom: 40px;
+    font-size: 12pt;
+
+}
+
+.subBoxRight {
+    width: 745px;
+    height: 180px;
+    border: 2px solid transparent;
+}
+
+.rightBox {
+    width: 215px;
+    height: 150px;
+    border: 2px solid transparent;
+    float: right;
+    margin: 10px;
+    margin-left: 22px;
+    margin-right: 10px;
+    
+}
+
+
+
+/* Buttons */
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #b3a6b3;
+	background:linear-gradient(to bottom, #b3b3b3 5%, #8f878f 100%);
+	background-color:#b3b3b3;
+	border-radius:6px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #000000;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #8f878f 5%, #b3b3b3 100%);
+	background-color:#8f878f;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.top {
+    float: right;
+}
+
+.back {
+    float: left;
+}
+
+.socialmedia {
+    width: 20px;
+    height: 20px;
+    float: right;
+    margin: 2px;
+    margin-right: 10px;
+    
+}
+
+h5 {
+    font-size: 12pt;
+    color: white;
+    float: left;
+    margin: 2px;
+}
