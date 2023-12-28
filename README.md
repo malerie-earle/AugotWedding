@@ -1,6 +1,12 @@
 # AugotWedding
-Website created for software development program assignment
+Website created for software development program assignment <br />
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a27a868e-ba18-4b2d-a13a-8c6eedf05dff/deploy-status)](https://app.netlify.com/sites/augotwedding/deploys)
+
+<br />
+Professor Feedback:<br />
+"5 / 5 - Love the hover effect on the 24-boxes.  Nice done - was not sure initially on the green and red - but is is growing on me. " - Maurice Baubin
+<br />
 Assignment Instructions:
 Use CSS and the Box Model to create the following page (replicated from example). 
 • Set the main box to 900px or 1000px width.
