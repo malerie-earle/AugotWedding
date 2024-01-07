@@ -2,6 +2,7 @@
 Website created for software development program assignment <br />
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a27a868e-ba18-4b2d-a13a-8c6eedf05dff/deploy-status)](https://app.netlify.com/sites/augotwedding/deploys)
+<img width="1424" alt="augotwedding" src="https://github.com/malerie-earle/AugotWedding/assets/141525464/b6196b8f-65da-4f33-a061-0b70dfba85f0">
 
 <br />
 Professor Feedback:<br />
